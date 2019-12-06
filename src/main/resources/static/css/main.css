@@ -1,0 +1,33 @@
+
+form{
+    text-align: center;
+}
+#input{
+    width: 600px;
+    height: 50px;
+    margin: 0 auto;
+}
+#c1 {
+    color: #260c13;
+    background: rgba(121, 166, 164, 0);
+    width: 600px;
+    height: 50px;
+    margin: 0 auto;
+
+}
+#inputa {
+    color: #260c13;
+    background: rgba(121, 166, 164, 0);
+    width: 80px;
+    height: 50px;
+    margin: 0 auto;
+
+}
+#inputb {
+    color: #260c13;
+    background: rgba(121, 166, 164, 0);
+    width: 80px;
+    height: 50px;
+    margin: 0 auto;
+
+}
